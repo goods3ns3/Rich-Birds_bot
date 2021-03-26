@@ -1,0 +1,4 @@
+chromedriver/
+venv/
+.idea/
+data.py
